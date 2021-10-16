@@ -16,3 +16,8 @@ Install
 4. Requests
 5. investpy 
 6. Nsetools
+
+
+NB:
+Switch branches to see each of US and India
+
