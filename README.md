@@ -3,11 +3,11 @@
 3. Matplotlib
 4. Requests
 5. investpy 
-6. Nsetools
+
 
 
 NB:
-Switch branches to see each of US and India
+
 
 # MACD-RSI-STOCHASTIC-strategy
 Trading strategy using indicators - MACD, RSI (Relative Strength Index) &; Stochastic oscillator ; taking advantage of a real-time data grabbing from a trusted free leading enterprise sources for mission-critical financial applications through their API and library
