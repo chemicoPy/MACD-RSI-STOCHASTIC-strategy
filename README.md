@@ -1,12 +1,12 @@
-# Numpy
-2. Pandas
-3. Matplotlib
-4. Requests
-5. investpy 
 
 
 
-NB:
+
+
+
+
+
+
 
 
 # MACD-RSI-STOCHASTIC-strategy
